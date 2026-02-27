@@ -1,2 +1,1 @@
-# get-me-to-help-bugs
-help find bugs
+funtion test() {console.log ('hello' )
