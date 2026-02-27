@@ -1,1 +1,1 @@
-function test() {console.log ('hello' )
+funtion() {
